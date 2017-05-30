@@ -12,3 +12,7 @@ They would help if we wanted to introduce some experimental features without bre
 
 How do the diagrams help you visualize the branch structure?
 Help us understand the hierarchy of commits on any branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We get all the commits of both branches when we merge them. So we get a unified head in the end for the resulting branch.
+
