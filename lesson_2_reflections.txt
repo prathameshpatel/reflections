@@ -3,3 +3,12 @@ We see a .git folder created when we initialize a repositiory. We need to do it 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It wroks as an intermediate stage from where we can choose to commit the files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+We can use the satging area to keep track of the changes that are already set for commit but not commited yet. So we can decide if we want to commit it later.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+They would help if we wanted to introduce some experimental features without breaking the existing working code which is in the master branch.
+
+How do the diagrams help you visualize the branch structure?
+Help us understand the hierarchy of commits on any branch.
