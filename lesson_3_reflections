@@ -6,3 +6,6 @@ We might want to decide whch changes and commits to push to the remote repositor
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks are repository clones on GitHub itself. Clones are repository clones from remote to local machines. Branches are a different path in the commit history. We should use all of them as and when needed.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So we can know what is the current head of the remote branch and keeps us updated about how ahead or lagging we are by commits in the tree. Also helps us understand the confilcts in the case we need to pull from the remote. (pull = fetch and merge).
