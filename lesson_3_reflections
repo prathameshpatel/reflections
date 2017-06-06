@@ -9,3 +9,6 @@ Forks are repository clones on GitHub itself. Clones are repository clones from 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So we can know what is the current head of the remote branch and keeps us updated about how ahead or lagging we are by commits in the tree. Also helps us understand the confilcts in the case we need to pull from the remote. (pull = fetch and merge).
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Collaborate using google docs or simple file sharing like notes etc.
